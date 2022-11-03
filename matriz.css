@@ -1,0 +1,46 @@
+#content{
+    height:80vh;
+}
+.general{
+    display: flex;
+    background-color:#AAB7B8;
+}
+
+.cont-matriz{
+    display: grid;
+    grid-template-columns:repeat(5, 1fr);
+    grid-gap: 2px;
+    width: 40%;
+    font-size: 3em;
+    text-align: center;
+    background-color:#A569BD;
+    padding: 0px;
+}
+
+.caja{
+    min-height: 10vh;
+    padding-top: 20%;
+    background-color: aquamarine;
+    font-size: 0.7em;
+}
+
+.cont-der{
+    margin-left: 18%;
+}
+
+
+.contect-der1{
+    margin-left: 1%;
+}
+
+.menu{
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+
+
